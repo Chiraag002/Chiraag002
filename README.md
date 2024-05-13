@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chiraag002
-- 👀 I’m interested in DataScience world 
+- 👀 I’m interested in DataScience  
 - 🌱 I’m currently learning DataScience & analysis
 - 💞️ I’m looking to collaborate on project which brush up my skills for DataScience & analysis
 - 📫 How to reach me (linkedin:https://www.linkedin.com/in/chirag-bhadra-6372a71a5)
